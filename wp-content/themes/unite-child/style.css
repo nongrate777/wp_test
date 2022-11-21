@@ -1,0 +1,14 @@
+/*
+Theme Name: Дочерняя тема для теста
+Template: unite
+*/
+
+@import url("../unite/style.css");
+
+.parametres_realestate span{
+    font-weight: bold;
+}
+.lighting:hover{
+    box-shadow: 0 13px 19px rgb(0 0 0 / 7%);
+    border-radius: 8px;
+}
